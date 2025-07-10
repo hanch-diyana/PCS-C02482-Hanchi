@@ -1,36 +1,19 @@
-# 🚀 Formation sur Python
+# 📦 Présentation du projet
 
-Bienvenue à la **Formation sur Python** !
-
-Python est l’un des langages de programmation les plus populaires et polyvalents au monde. Cette formation vous permettra de découvrir ses bases, d’explorer ses applications et de développer vos propres projets.
+Ce dépôt contient des exercices et projets pour apprendre Python, adaptés à une formation pratique. Vous y trouverez des notebooks Jupyter pour expérimenter le code et progresser étape par étape.
 
 ---
 
-## 📚 Objectifs de la formation
-- Comprendre les fondamentaux de Python
-- Manipuler les structures de données (listes, dictionnaires, etc.)
-- Écrire des scripts et des programmes efficaces
-- Découvrir les bibliothèques incontournables (NumPy, Pandas, Matplotlib...)
-- Réaliser des projets pratiques
+## ⚙️ Prérequis
+
+L'environnement Python, Anaconda, Jupyter et VS Code sont déjà installés et configurés.
 
 ---
 
-## 🎯 Public visé
-Débutants, étudiants, professionnels ou toute personne souhaitant apprendre à programmer avec Python.
+## ▶️ Exécution des exercices
 
----
+- Ouvrez un notebook Jupyter (`.ipynb`) dans VS Code ou via la commande `jupyter notebook`.
+- Exécutez les cellules une par une pour suivre les exercices.
+- Modifiez le code pour tester vos propres solutions.
 
-## 💡 Pourquoi apprendre Python ?
-- Facile à apprendre et à lire
-- Large communauté et nombreuses ressources
-- Utilisé en data science, web, automatisation, IA, etc.
-
----
-
-> *"Le meilleur moment pour apprendre Python, c’est maintenant !"*
-
----
-
-## 🚦 Prêt à commencer ?
-Explorez les fichiers du projet et lancez-vous dans l’aventure Python !
 
